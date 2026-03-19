@@ -4,6 +4,8 @@
 This project is a **Power BI dashboard** designed to analyze employee and customer-related data.  
 It provides actionable insights by tracking **key performance indicators (KPIs)**, segmenting behaviors, and visualizing trends across various dimensions such as **job title, experience, skills, and location**.
 
+![Power BI Salary Dashboard](Salary-Dashboard-Powerbi/Salary%20Dashboard.jpg)
+
 The dashboard is particularly useful for:
 - Understanding salary distribution
 - Analyzing customer or employee behavior
